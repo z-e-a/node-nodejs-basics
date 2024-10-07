@@ -8,6 +8,12 @@ Forked from [this repository](https://github.com/AlreadyBored/node-nodejs-basics
 
 Solution represents several nested folders inside `src` containing implementation of necessary functionality inside
 
+## Technical requirements
+
+- Any external tools and libraries are not used. There's no any dependencies
+- Tested on recommended 22.x.x version of Node.js (exactly v22.9.0)
+- Signature of pre-written functions was kept as in the original source
+- Prefered asynchronous API whenever possible
 
 ## Check
 For check simplification `package.json` includes prepared npm-scripts.  
@@ -146,3 +152,10 @@ $ npm run wt
 ```bash
 $ npm run cp
 ```
+
+### Forfeits
+- [ ] 95% of total task score Any external tools/libraries are used **- not used**
+- [ ] 30% of total task score Commits after deadline (except commits that affect only Readme.md, .gitignore, etc.) **- there's no commits after deadline (2024-10-08 03:00  (UTC +03:00))**
+
+
+### Total score - **206** points
